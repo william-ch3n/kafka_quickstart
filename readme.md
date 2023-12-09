@@ -1,7 +1,8 @@
 # Kafka Quickstart
 
 @Author: William Ch3n  
-This is just one simple project where I practice what I learnt about Kafka.
+This is just one simple project where I practice what I learnt about Kafka.  
+Hope this can provide any help for you!
 
 ## Tech Stack
 Spring Boot Web + Spring Kafka + Kafka + Kraft
